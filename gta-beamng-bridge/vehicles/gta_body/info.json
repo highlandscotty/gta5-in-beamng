@@ -1,0 +1,9 @@
+{
+ "Name": "GTA Body",
+ "Type": "Prop",
+ "Brand": "gtaBridge",
+ "Description": "Invisible physical body of the streamed GTA V character (no mesh: collision only)",
+ "Author": "gtaBridge",
+ "default_pc": "gta_body.pc",
+ "Configurations": {}
+}

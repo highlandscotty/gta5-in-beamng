@@ -1,0 +1,8 @@
+{
+ "format": 2,
+ "model": "gta_body",
+ "parts": {
+  "main": "gta_body"
+ },
+ "mainPartName": "gta_body"
+}

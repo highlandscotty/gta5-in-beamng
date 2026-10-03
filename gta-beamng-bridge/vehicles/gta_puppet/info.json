@@ -1,0 +1,9 @@
+{
+ "Name": "GTA Puppet",
+ "Type": "Prop",
+ "Brand": "gtaBridge",
+ "Description": "Streamed GTA V character puppet",
+ "Author": "gtaBridge",
+ "default_pc": "gta_puppet.pc",
+ "Configurations": {}
+}

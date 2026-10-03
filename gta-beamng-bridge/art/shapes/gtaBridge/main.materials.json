@@ -1,0 +1,24 @@
+{
+  "gtaBridge_skin": {
+    "name": "gtaBridge_skin",
+    "mapTo": "gtaBridge_skin",
+    "class": "Material",
+    "persistentId": "7c1f6a52-5b0e-4a63-9f3b-0d2a7e4c91ab",
+    "version": 1.5,
+    "Stages": [
+      {
+        "baseColorFactor": [
+          0.8,
+          0.62,
+          0.5,
+          1
+        ],
+        "roughnessFactor": 0.75,
+        "metallicFactor": 0.0
+      },
+      {},
+      {},
+      {}
+    ]
+  }
+}

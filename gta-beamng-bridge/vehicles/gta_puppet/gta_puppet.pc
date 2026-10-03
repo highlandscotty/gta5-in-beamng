@@ -1,0 +1,8 @@
+{
+ "format": 2,
+ "model": "gta_puppet",
+ "parts": {
+  "main": "gta_puppet"
+ },
+ "mainPartName": "gta_puppet"
+}

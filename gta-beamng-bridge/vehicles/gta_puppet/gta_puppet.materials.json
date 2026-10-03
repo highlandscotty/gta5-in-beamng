@@ -1,0 +1,164 @@
+{
+ "gta_c0": {
+  "name": "gta_c0",
+  "mapTo": "gta_c0",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000000",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6A1E38.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c1": {
+  "name": "gta_c1",
+  "mapTo": "gta_c1",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000001",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6A1E38.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c2": {
+  "name": "gta_c2",
+  "mapTo": "gta_c2",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000002",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6A8738.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c3": {
+  "name": "gta_c3",
+  "mapTo": "gta_c3",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000003",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6A8738.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c4": {
+  "name": "gta_c4",
+  "mapTo": "gta_c4",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000004",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F69F178.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c5": {
+  "name": "gta_c5",
+  "mapTo": "gta_c5",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000005",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6A03F8.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c6": {
+  "name": "gta_c6",
+  "mapTo": "gta_c6",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000006",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6A03F8.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c7": {
+  "name": "gta_c7",
+  "mapTo": "gta_c7",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000007",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6A6CF8.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ },
+ "gta_c8": {
+  "name": "gta_c8",
+  "mapTo": "gta_c8",
+  "class": "Material",
+  "persistentId": "a1b2c3d4-0000-4000-8000-000000000008",
+  "version": 1.5,
+  "doubleSided": true,
+  "Stages": [
+   {
+    "baseColorMap": "/vehicles/gta_puppet/tex_000001F64F6968F8.png",
+    "roughnessFactor": 0.8,
+    "metallicFactor": 0.0
+   },
+   {},
+   {},
+   {}
+  ]
+ }
+}
